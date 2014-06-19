@@ -6,8 +6,8 @@ Hope this helps finding relevant resources and gather them in sensible way.
 The basics
 + [W3C Web Components Specifications](http://w3c.github.io/webcomponents/)
 + [Webcomponents.org](http://webcomponents.org/)
-+ [Bower](http://bower.io/) packet manager
-+ [Yeoman](http://yeoman.io/) command line scaffolding tool
++ [Bower](http://bower.io/): a packet manager for the web
++ [Yeoman](http://yeoman.io/): command line scaffolding tool
 
 ## Libraries
 + [Polymer](http://www.polymer-project.org/), created by Google
@@ -38,6 +38,7 @@ Search and Test drive ready-made components in these repos before adding them to
 + [Introduction to custom elements](http://www.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/)
 + [Defining new elements in HTML](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
 + [Getting Started With Web Components and polymer.js](http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/?utm_medium=referral&utm_source=pulsenews)
++ [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
 
 ### A little bit more in depth
 + [A guide to styling elements in Polymer](http://www.polymer-project.org/articles/styling-elements.html)
