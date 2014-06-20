@@ -51,6 +51,8 @@ Search and Test drive ready-made components in these repos before adding them to
 + [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
 
 ### A little bit more in depth
++ [Styling elements in Polymer](http://www.polymer-project.org/articles/styling-elements.html) (useful article for theming your own components)
++ [Polymer Styling reference](http://www.polymer-project.org/docs/polymer/styling.html)
 + [A guide to styling elements in Polymer](http://www.polymer-project.org/articles/styling-elements.html)
 + [Sharing Polymer Components: Part 1](http://code.tutsplus.com/tutorials/sharing-polymer-components-part-1--cms-21264)
 
