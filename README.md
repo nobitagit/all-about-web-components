@@ -35,6 +35,8 @@ Search and Test drive ready-made components in these repos before adding them to
 
 ## Videos
 + [Web Component Mashups by Rob Dodson](https://www.youtube.com/watch?v=75EuHl6CSTo)
++ [Building modern apps with Polymer & Web Components](https://www.youtube.com/watch?v=VMVj_jR75vE)
++ [Advantages of Web Components - Jan Miksovsky](https://www.youtube.com/watch?v=qfpEOGW-zUc)
 
 ## Articles
 ### Introductions
