@@ -12,6 +12,9 @@ The basics
 + [Bosonic](http://bosonic.github.io/)
 + [X-tags](http://x-tags.org/), created by Mozilla
 
+### APIs
++ [Pomlymer core](http://www.polymer-project.org/components/core-docs/index.html)
+
 ## Tools
 + [Bower](http://bower.io/): a packet manager for the web
 + [Yeoman](http://yeoman.io/): command line scaffolding tool
@@ -35,6 +38,7 @@ Search and Test drive ready-made components in these repos before adding them to
 + [Brick](http://mozilla.github.io/brick/index.html)
 
 ## Videos
++ [Polymer and front-end tooling, A Polymer workflow example](https://www.youtube.com/watch?v=EwQkyplZHDY#t=220)
 + [Web Component Mashups by Rob Dodson](https://www.youtube.com/watch?v=75EuHl6CSTo)
 + [Building modern apps with Polymer & Web Components](https://www.youtube.com/watch?v=VMVj_jR75vE)
 + [Advantages of Web Components - Jan Miksovsky](https://www.youtube.com/watch?v=qfpEOGW-zUc)
