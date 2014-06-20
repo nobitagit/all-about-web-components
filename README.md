@@ -1,6 +1,6 @@
 # All about Web Components 
 Webcomponents resources are still pretty sparse and scatterd around the web. 
-Hope this helps finding relevant resources and gather them in sensible way.
+Hope this helps finding relevant informations and organize them in sensible way.
 
 ## Main references
 The basics
@@ -18,6 +18,7 @@ The basics
 
 ## Boilerplates
 Kickstart your web components development with a solid base
++ [Seed Element for Polymer](https://github.com/PolymerLabs/seed-element)
 + [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
 + [X-tags boilerplate](https://github.com/webcomponents/x-tag-boilerplate)
 + [Vanilla js boilerplate](https://github.com/webcomponents/element-boilerplate)
