@@ -6,13 +6,15 @@ Hope this helps finding relevant resources and gather them in sensible way.
 The basics
 + [W3C Web Components Specifications](http://w3c.github.io/webcomponents/)
 + [Webcomponents.org](http://webcomponents.org/)
-+ [Bower](http://bower.io/): a packet manager for the web
-+ [Yeoman](http://yeoman.io/): command line scaffolding tool
 
 ## Libraries
 + [Polymer](http://www.polymer-project.org/), created by Google
 + [Bosonic](http://bosonic.github.io/)
 + [X-tags](http://x-tags.org/), created by Mozilla
+
+## Tools
++ [Bower](http://bower.io/): a packet manager for the web
++ [Yeoman](http://yeoman.io/): command line scaffolding tool
 
 ## Boilerplates
 Kickstart your web components development with a solid base
@@ -23,6 +25,7 @@ Kickstart your web components development with a solid base
 ## Support checking
 Stay up to date with the current browser support of web components
 + [Are we componentized yet?](http://jonrimmer.github.io/are-we-componentized-yet/)
++ [Can I use web components?](http://caniuse.com/#search=web%20components)
 
 ## Galleries, bundles & demos
 Search and Test drive ready-made components in these repos before adding them to your projects.
