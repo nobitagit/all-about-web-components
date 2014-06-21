@@ -55,6 +55,7 @@ Search and Test drive ready-made components in these repos before adding them to
 + [Polymer Styling reference](http://www.polymer-project.org/docs/polymer/styling.html)
 + [A guide to styling elements in Polymer](http://www.polymer-project.org/articles/styling-elements.html)
 + [Sharing Polymer Components: Part 1](http://code.tutsplus.com/tutorials/sharing-polymer-components-part-1--cms-21264)
++ [Repeating templates in Polymer](http://robdodson.me/blog/2013/11/12/repeating-templates-in-polymer/)
 
 ## Snippets, tips and tricks
 Short snippets and quick tips. Learn something in 30 seconds.
