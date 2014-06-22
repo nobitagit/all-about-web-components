@@ -26,7 +26,7 @@ Kickstart your web components development with a solid base
 + [X-tags boilerplate](https://github.com/webcomponents/x-tag-boilerplate)
 + [Vanilla js boilerplate](https://github.com/webcomponents/element-boilerplate)
 
-## Support checking
+## Browser support checking
 Stay up to date with the current browser support of web components
 + [Are we componentized yet?](http://jonrimmer.github.io/are-we-componentized-yet/)
 + [Can I use web components?](http://caniuse.com/#search=web%20components)
@@ -56,6 +56,9 @@ Search and Test drive ready-made components in these repos before adding them to
 + [A guide to styling elements in Polymer](http://www.polymer-project.org/articles/styling-elements.html)
 + [Sharing Polymer Components: Part 1](http://code.tutsplus.com/tutorials/sharing-polymer-components-part-1--cms-21264)
 + [Repeating templates in Polymer](http://robdodson.me/blog/2013/11/12/repeating-templates-in-polymer/)
+
+## Demo Apps
++ [Polymer Todo App](http://todomvc.com/architecture-examples/polymer/index.html)
 
 ## Snippets, tips and tricks
 Short snippets and quick tips. Learn something in 30 seconds.
