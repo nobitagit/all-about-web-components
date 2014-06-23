@@ -46,6 +46,7 @@ Search and Test drive ready-made components in these repos before adding them to
 ## Articles
 ### Introductions
 + [Introduction to custom elements](http://www.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/)
++ [Ten Principles for Great General Purpose Web Components](https://github.com/basic-web-components/components-dev/wiki/Ten-Principles-for-Great-General-Purpose-Web-Components)
 + [Defining new elements in HTML](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
 + [Getting Started With Web Components and polymer.js](http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/?utm_medium=referral&utm_source=pulsenews)
 + [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
