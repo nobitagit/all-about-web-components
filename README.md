@@ -1,5 +1,5 @@
-# All about Web Components 
-Webcomponents resources are still pretty sparse and scatterd around the web. 
+# All about Web Components
+Webcomponents resources are still pretty sparse and scatterd around the web.
 Hope this helps finding relevant informations and organize them in sensible way.
 
 ## Main references
@@ -14,6 +14,7 @@ The basics
 
 ### APIs
 + [Pomlymer core](http://www.polymer-project.org/components/core-docs/index.html)
++ [Web Components Style Guide](https://github.com/GoogleWebComponents/style-guide)
 
 ## Tools
 + [Bower](http://bower.io/): a packet manager for the web
@@ -80,8 +81,5 @@ You should probably follow these people:
 
 ---
 Credit where it's due. The present list is inspired by [this](https://github.com/nobitagit/AngularJS-Learning) AngularJs list.
-Do I need to add a license to this? I don't think so. 
+Do I need to add a license to this? I don't think so.
 But in case I do, I'd say [this one](https://tldrlegal.com/license/do-wtf-you-want-to-public-license-v2-(wtfpl-2.0)) quite fits.
-
-
-
